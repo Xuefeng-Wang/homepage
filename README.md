@@ -1,5 +1,5 @@
 # Homepage
-![image](https://github.com/Xuefeng-Wang/homepage/blob/master/%E7%99%BB%E8%AE%B0%E7%85%A7(1).jpg)
+![image](https://github.com/Xuefeng-Wang/homepage/blob/master/照片.jpg)
 
 - **Basic Information:** I'm Xue-Feng Wang, a Chinese undergraduate studying in CCME (College of Chemistry and Molecular Engineering), Peking University.
 
