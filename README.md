@@ -1,5 +1,4 @@
 # Homepage
-![image](file:///C:/Users/wxf/Desktop/王雪峰资料/登记照%20王雪峰/登记照.jpg)
 - **Basic Information:** I'm Xue-Feng Wang, a Chinese undergraduate studying in CCME (College of Chemistry and Molecular Engineering), Peking University.
 
 - **Special Talents:** I'm skilled with *Hulusi* (a kind of Chinese traditional instrument made of gourd), and can also play Chinese Bamboo Flute, aka "*dizi*" in Chinese.
