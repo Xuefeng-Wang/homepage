@@ -5,6 +5,7 @@
 Ph.D. candidate, Center for Life Sciences (CLS), Academy for Advanced Interdisciplinary Studies (AAIS), Peking University (PKU)
 - **Education:** 
   2018-2022 B.S., Chemical Biology, Peking University (Thesis advisor: Prof. Peng Zou)
+  
   2022-now Ph.D. candidate, Peking University (Advisor: Prof. Yihan Lin)
 
 - **Research Interests:** Protein design, synthetic biology, enzyme engineering
