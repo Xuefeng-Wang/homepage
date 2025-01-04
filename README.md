@@ -1,5 +1,5 @@
 # Homepage
-![image](https://github.com/Xuefeng-Wang/homepage/blob/master/毕业照.jpg)
+<img src="https://github.com/Xuefeng-Wang/homepage/blob/master/photo.jpg" alt="photo" width="200px">
 
 ## Xuefeng Wang | 王雪峰
 Ph.D. candidate, Center for Life Sciences (CLS), Academy for Advanced Interdisciplinary Studies (AAIS), Peking University (PKU)
